@@ -2,7 +2,7 @@
 # Software License Agreement (BSD License)
 #
 # Copyright (c) 2008, Willow Garage, Inc.
-# All rights reserved.
+# All rights reserved. Edited by Ryan Sands <To be changed..>
 #
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions
